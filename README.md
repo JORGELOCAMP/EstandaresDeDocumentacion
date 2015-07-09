@@ -1,3 +1,3 @@
 # EstandaresDeDocumentacion
-Inicio
+Programa de Versionamiento para Estandares de Documentacion.
 Final
