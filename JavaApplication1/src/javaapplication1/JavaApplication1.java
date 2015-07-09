@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author Jorge Armando Londoño Ocampo.
+ * @author Sebastian Londoño Villa.
  */
 public class JavaApplication1 {
 
