@@ -8,7 +8,7 @@ package javaapplication1;
 /**
  *
  * @author JORGE ARMANDO LONDOÑO OCAMPO.
- *  @version 11/07/2015/C
+ *  @version 11/07/2015/ABC
  */
 public class JavaApplication1 {
 
