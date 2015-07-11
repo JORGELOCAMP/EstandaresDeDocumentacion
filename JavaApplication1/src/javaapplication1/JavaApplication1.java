@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author JOr......
+ * @author carmenza
  *  @version 11/07/2015/A
  */
 public class JavaApplication1 {
