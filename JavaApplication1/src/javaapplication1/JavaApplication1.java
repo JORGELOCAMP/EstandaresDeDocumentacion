@@ -7,8 +7,12 @@ package javaapplication1;
 
 /**
  *
+<<<<<<< OURS
  * @author JORGE ARMANDO LONDOÑO OCAMPO.
  *  @version 20/06/2015/A
+=======
+ * @author Jorge Londoño.
+>>>>>>> THEIRS
  */
 public class JavaApplication1 {
 
